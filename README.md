@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋
+Welcome to my Github. I am Samir Ehsani 😃 and i am working as a .net developer in Gothenburg Sweden.
+## I have skills in:
+* C# <br/>
+* CSS <br/>
+* SASS <br/>
+* JAVASCRIPT <br/>
+* JQUERY <br/>
+* BLAZOR <br/>
+* HTML <br/>
+* MVC <br/>
+* ENTITY FRAMEWORK/CORE <br/>
+* SWAGGER <br/>
+* API <br/>
+* UNIT TEST <br/>
+* SINGLE RESPONSIBILITY PRINSIPLE <br/>
+* AGILE METHODOLOGY <br/>
+* POSTMAN <br/>
+* SQL-SERVER <br/>
+* MANAGEMENT STUDIO <br/>
+* DOCKER <br/>
+* AZURE DEVOPS <br/>
+* COMMAND LINE/GITBASH <br/>
+* GIT
 
-<!--
-**samirehsani19/samirehsani19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
